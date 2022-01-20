@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ac238b4.chunk.css",
+    "main.js": "/static/js/main.451c271a.chunk.js",
+    "main.js.map": "/static/js/main.451c271a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8326d2ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8326d2ee.js.map",
+    "static/js/2.92046c4e.chunk.js": "/static/js/2.92046c4e.chunk.js",
+    "static/js/2.92046c4e.chunk.js.map": "/static/js/2.92046c4e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d17727bf1a88fd93a862291bc74eecc4.js": "/precache-manifest.d17727bf1a88fd93a862291bc74eecc4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0ac238b4.chunk.css.map": "/static/css/main.0ac238b4.chunk.css.map",
+    "static/js/2.92046c4e.chunk.js.LICENSE.txt": "/static/js/2.92046c4e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Artboard 1.1be842db.png",
+    "static/media/microphoneIcon.svg": "/static/media/microphoneIcon.9ef41556.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8326d2ee.js",
+    "static/js/2.92046c4e.chunk.js",
+    "static/css/main.0ac238b4.chunk.css",
+    "static/js/main.451c271a.chunk.js"
+  ]
+}
